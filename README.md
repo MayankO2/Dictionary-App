@@ -2,14 +2,11 @@ This project is a simple web-based dictionary application that allows users to s
 The app uses the Dictionary API to fetch word data.
 
 
-
 Features
 1.Search for English words.
 2.View word definitions, parts of speech, and phonetic transcriptions.
 3.Listen to the pronunciation of the words.
 4.Display error messages when a word is not found.
-
-
 
 Technologies Used
 1.HTML
@@ -17,8 +14,6 @@ Technologies Used
 3.JavaScript
 4.Dictionary API
 5.Font Awesome for icons
-
-
 
 Usage
 1.Open the application in your web browser.
